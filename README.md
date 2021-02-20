@@ -26,16 +26,17 @@ My current project and responsibility is building the Messaging app feature that
 with their customers using FNB app. The application is a web-application specifically for Mobile and Tablet devices. 
 
 In the application I write REST API endpoint consumer integration code exposed by a backend to facilitate
-the communication between the Private Banker Agent and the client. 
+the communication between the Banker Agent and the customer. 
 
 My current passion includes AWS, Spring Boot, BigData - currently doing online courses on these as I'd love to work with these 
-in the not so far future. I feel i'm more closer to that now than before (honestly). 
+in the not so far future. I feel i'm more closer to that now than before. 
 
 My previous job - I was a Systems Analyst at Discover - VitalityLife. The company is a UK based Life and Health insurance company 
 that allows UK based customers (new & existing) to apply for Life insurance through a number of channels. 
 
-My responsibility was leading a team where we build a customer oriented web application that allows for UK-based customers to squote and apply for Life Insurance cover mostly via their mobile devices. The application enables 2 separate but similar channels where customers can create and apply for Life insurance. 
-The applications had an extended functionality that enabled the customers to do the Application process themselves - this process enabled the customer to see the application to completion stage where the Life insurance quote is converted to an actual Policy that is placed on risk and the customer is covered. 
+My responsibility was leading a team where we build a customer oriented web application that allows for UK based customers to quote and apply for Life Insurance cover from their mobile devices. The application enables 2 separate but similar channels where customers can create and apply for Life insurance. 
+The applications had an extended functionality that enabled the customers to do the Application process themselves - this process enabled the customer to see the application to completion stage where the Life insurance quote is converted to a Policy - which means by the time the customer finishes the application, they will be covered depending on the 
+risk and medical underwriting decision. 
 
 The applications are currently accessible in the below links: 
 
